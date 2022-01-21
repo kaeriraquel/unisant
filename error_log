@@ -1,0 +1,66 @@
+[30-Aug-2021 20:54:32 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/95d398a10cee4cde9d9579f8900e0f80a970588f.php on line 136
+[30-Aug-2021 20:54:33 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/95d398a10cee4cde9d9579f8900e0f80a970588f.php on line 136
+[30-Aug-2021 20:54:43 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/95d398a10cee4cde9d9579f8900e0f80a970588f.php on line 136
+[30-Aug-2021 20:54:48 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/95d398a10cee4cde9d9579f8900e0f80a970588f.php on line 136
+[30-Aug-2021 21:54:00 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/d9af25179497abc571c852952fbc706f33c6d0f8.php on line 280
+[06-Sep-2021 17:11:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(269): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php(805): Illuminate\Container\Container->Illumin in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[12-Sep-2021 20:13:25 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\facturas::solicitar() in /home/votoutil/public_html/system/app/Http/Controllers/facturas.php on line 18
+[18-Oct-2021 16:57:53 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Method Illuminate\View\View::send does not exist. in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php:409
+Stack trace:
+#0 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): Illuminate\View\View->__call('send', Array)
+#1 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(BadMethodCallException))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(BadMethodCallException))
+#3 {main}
+  thrown in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php on line 409
+[18-Oct-2021 16:57:56 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Method Illuminate\View\View::send does not exist. in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php:409
+Stack trace:
+#0 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): Illuminate\View\View->__call('send', Array)
+#1 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(BadMethodCallException))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(BadMethodCallException))
+#3 {main}
+  thrown in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php on line 409
+[18-Oct-2021 16:58:19 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Method Illuminate\View\View::send does not exist. in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php:409
+Stack trace:
+#0 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): Illuminate\View\View->__call('send', Array)
+#1 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(BadMethodCallException))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(BadMethodCallException))
+#3 {main}
+  thrown in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php on line 409
+[18-Oct-2021 16:58:34 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Method Illuminate\View\View::send does not exist. in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php:409
+Stack trace:
+#0 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): Illuminate\View\View->__call('send', Array)
+#1 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(BadMethodCallException))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(BadMethodCallException))
+#3 {main}
+  thrown in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php on line 409
+[18-Oct-2021 16:58:59 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Method Illuminate\View\View::send does not exist. in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php:409
+Stack trace:
+#0 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): Illuminate\View\View->__call('send', Array)
+#1 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(BadMethodCallException))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(BadMethodCallException))
+#3 {main}
+  thrown in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php on line 409
+[18-Oct-2021 16:59:03 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Method Illuminate\View\View::send does not exist. in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php:409
+Stack trace:
+#0 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): Illuminate\View\View->__call('send', Array)
+#1 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(BadMethodCallException))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(BadMethodCallException))
+#3 {main}
+  thrown in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php on line 409
+[18-Oct-2021 16:59:24 UTC] PHP Fatal error:  Uncaught BadMethodCallException: Method Illuminate\View\View::send does not exist. in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php:409
+Stack trace:
+#0 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): Illuminate\View\View->__call('send', Array)
+#1 /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(BadMethodCallException))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(BadMethodCallException))
+#3 {main}
+  thrown in /home/votoutil/public_html/system/vendor/laravel/framework/src/Illuminate/View/View.php on line 409
+[18-Oct-2021 17:08:21 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/7e5beb4bca5fa4adb301620f937465b6dcac6f57.php on line 2
+[18-Nov-2021 12:42:15 America/Mexico_City] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/b7864a9a3344fb1418214edd29b72686818c0d6a.php on line 227
+[18-Nov-2021 12:43:04 America/Mexico_City] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/b7864a9a3344fb1418214edd29b72686818c0d6a.php on line 227
+[18-Nov-2021 12:43:23 America/Mexico_City] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/votoutil/public_html/system/storage/framework/views/b7864a9a3344fb1418214edd29b72686818c0d6a.php on line 227

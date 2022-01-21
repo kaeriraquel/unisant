@@ -1,0 +1,35 @@
+svg{
+  position:fixed;
+  opacity:.1;
+  bottom:-10%;
+  left:-8%;
+  z-index:9999;
+  transform: scale(.6);
+}
+.show2 {
+  z-index: 10000;
+  position: absolute;
+  background-color:#14192D;
+  width:250px;
+  border:solid #f6f6f6 2px;
+}
+
+.hide2 {
+  display: none;
+}
+
+.show2 li {
+  list-style: none;
+}
+.iconito{
+  width: 20px !important;
+  display: inline-block;
+}
+
+.show2 a {
+  color:white !important;
+  text-decoration: none;
+}
+.show2 a:hover {
+  background-color:#145971;
+}

@@ -1,0 +1,99 @@
+hr{
+
+}
+.dataTables_filter{
+  width:400px;
+}
+.dataTables_filter label{
+  width:100%;
+}
+.nav-item .active a{
+  background-color:transparent !important;
+  border:0 !important;
+  color:white !important;
+  box-shadow: none !important;
+  font-weight: bold;
+}
+.nav-item .active{
+  background-color:#B37A49;
+}
+.nav-tabs{
+  border-bottom:solid #ccc 1px;
+  margin-bottom:20px;
+}
+.btn-default{
+  background-color:transparent !important;
+  border:none;
+  color:#14192D !important;
+  box-shadow: none !important;
+  margin-bottom:0px;
+}
+.btn-default.active{
+  background-color:white !important;
+  color:#14192D !important;
+  border:solid #ccc 1px;
+  border-bottom:0;
+  border-radius: 5px 5px 0px 0px;
+}
+.bg-animation-shiny p, .bg-animation-shiny i {
+  color:white !important;
+}
+.bg-animation-shiny:hover {
+  background-color: #34465D !important;
+}
+.bg-animation-shiny {
+
+  background-color: #14192D;
+  background-image: linear-gradient(
+    to right,
+    transparent 0%,
+    rgba(255,255,255,0.3) 50%,
+    transparent 100%
+  );
+  background-repeat: no-repeat;
+  background-position: -100vw;
+  animation: shine 10s infinite;
+}
+
+@keyframes shine {
+  0% {
+    background-position: -100vw;
+  }
+  100% {
+    background-position: 100vw;
+  }
+}
+
+.custom-select{
+  border:0 !important;
+  display: inline-block !important;
+}
+.btn-normal{
+  background-color: transparent;
+  border:none;
+  cursor: pointer;
+}
+.btn-normal:hover{
+  color:#BD773F;
+}
+
+.form-control{
+  line-height: 20px !important;
+  border:solid #e4e4e4 1px !important;
+  border-radius: 0px 5px 5px 0px !important;
+  text-indent:10px !important;
+  background-size: none !important;
+  background: #BD773F !important;
+  background: linear-gradient(90deg, #BD773F 5px,#e4e4e4 1px, #e4e4e4 6px, rgba(255,255,255,1) 5px) !important;
+}
+.allow{
+  background: rgb(21,176,10) !important;
+  background: linear-gradient(90deg, rgba(21,176,10,1) 5px,#e4e4e4 1px, #e4e4e4 6px, rgba(255,255,255,1) 5px) !important;
+}
+.notallow{
+  background: gray !important;
+  background: linear-gradient(90deg, gray 5px,#e4e4e4 1px, #e4e4e4 6px, rgba(255,255,255,1) 5px) !important;
+}
+.disabled{
+  background: #f6f6f6;
+}

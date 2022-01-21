@@ -1,0 +1,11 @@
+Para agregar un desplegable se usa gerarquia
+# es un h1 
+## es un h2
+para poner en negritas un texto se pone entre **texto**
+
+para hacer una lista se usa
+*numero1
+*numero2
+
+para poner un enlace:
+- la url debe ir entre parentesis y antes el nombre [Google](www.google.com)

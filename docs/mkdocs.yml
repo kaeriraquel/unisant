@@ -1,0 +1,14 @@
+site_name: Manual de Usuario Unisant
+
+nav:
+- Inicio: 'index.md'
+
+# //agregar submenu
+# - 'Guia de Usuario':
+#   - 'Sistema de autenticación' : 'autenticated.md'
+# AGREGAR MENU como inicio:
+# esta en el archivo index.md
+
+- Acerca de: 'about.md'
+
+theme: readthedocs

@@ -1,0 +1,148 @@
+@keyframes Notify {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  85% {
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes Notify-pop {
+  from {
+    transform: scale(0);
+    opacity: 0;
+    filter: blur(10px);
+  }
+  15% {
+    transform: scale(1.01) translateY(10px);
+  }
+  55% {
+    transform: scale(0.99) translateY(-20px);
+    opacity: 1;
+    filter: blur(1px);
+  }
+  to {
+    transform: scale(1);
+    filter: blur(0px);
+  }
+}
+@keyframes Notify-x {
+  from {
+    transform: scale(0);
+    opacity: 0;
+    filter: blur(10px);
+  }
+  15% {
+    transform: scale(0.1, 0.9) translateY(10px);
+  }
+  55% {
+    transform: scale(1.05) translateY(-20px);
+    opacity: 1;
+    filter: blur(1px);
+  }
+  to {
+    transform: scale(1);
+    filter: blur(0px);
+  }
+}
+@keyframes Notify-y {
+  from {
+    transform: scale(0);
+    opacity: 0;
+    filter: blur(10px);
+  }
+  15% {
+    transform: scale(0.9, 0.1) translateY(10px);
+  }
+  55% {
+    transform: scale(1.05) translateY(-20px);
+    opacity: 1;
+    filter: blur(1px);
+  }
+  to {
+    transform: scale(1);
+    filter: blur(0px);
+  }
+}
+@keyframes Notify-price {
+  from {
+    transform: scaleY(0.3) scaleX(1.2);
+    opacity: 0;
+  }
+  75% {
+    transform: scaleY(1.1) scaleX(0.9);
+  }
+  to {
+    transform: scale(0.7) rotate(-5deg);
+    opacity: 1;
+  }
+}
+@keyframes notify-msg {
+  from {
+    transform: translate(0px, -10px);
+    opacity: 0;
+  }
+  to {
+    transform: translate(0px, 0px);
+    opacity: 1;
+  }
+}
+@keyframes Notify-fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+#single-notify {
+  z-index: 2000;
+  font: 100 1.3em sans-serif;
+  position: fixed;
+  bottom: 8vh;
+  left: 1vw;
+  background: seagreen;
+  color: #fff;
+  max-width: 460px;
+  width: auto;
+  line-height: 1.4em;
+  height: auto;
+  animation: Notify-pop 0.3s ease both;
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.3);
+  visibility: visible;
+}
+#single-notify > div {
+  font-size: 1.3rem;
+  margin: 0;
+}
+#single-notify > p.notify-message {
+  font-size: 1rem;
+  margin: 0;
+}
+#single-notify.brand-notify {
+  background-color: #4BAE4F;
+  color: rgba(255, 255, 255, 0.9);
+}
+#single-notify.brand-notify .fa {
+  opacity: 0.6;
+  display: inline-block;
+  margin-right: 5px;
+}
+#single-notify.brand-notify .h2 {
+  transition: all 0.2s ease;
+  font-weight: 300;
+  display: inline-block;
+  text-shadow: 0 1px rgba(255, 255, 255, 0.2);
+}
+#single-notify.wait-notify div {
+  margin: 0;
+}
+#single-notify.wait-notify .fa-info-circle {
+  display: none;
+}
+#single-notify .notify-message {
+  display: block;
+}
