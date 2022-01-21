@@ -1,5 +1,5 @@
-DOCUMENTACION UNISANT
-
+DOCUMENTACIÓN DE BIBLIOTECA
+===========================
 
 .. toctree::
     :caption: Introduccion
@@ -7,7 +7,7 @@ DOCUMENTACION UNISANT
     introduction
 
 .. toctree::
-    :caption: Guia de usuario
+    :caption: Guía de Usuario
 
     authenticated
     about
