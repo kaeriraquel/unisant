@@ -1,9 +1,10 @@
-site_name: Documentación de Biblioteca
+site_name: Manual de usuario Unisant
 
 nav:
-  - Inicio: 'index.md'
+  - Contenido: 'index.md'
   - 'Guía de Usuario':
-    - 'Sistema de Autenticación': 'authenticated.md'
+    - 'Inicio de sesión': 'inicio-sesion.md'
+    - 'Sede': 'sede.md'
   - Acerca de: 'about.md'
 
 theme: readthedocs
