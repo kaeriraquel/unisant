@@ -6,7 +6,7 @@ Universidad Santander
 
    introduction
 
-..toctree::
+.. toctree::
    :caption: Guía de Usuario
 
    inicio-sesion
