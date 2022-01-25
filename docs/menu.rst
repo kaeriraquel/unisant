@@ -1,5 +1,7 @@
 .. figure:: /images/logo_unisant.png
    :alt: logo
+    :height: 100px
+      :width: 200 px
 
 Esta es una guía de usuario creada para los usuarios de la plataforma
 `UNISANT <http://sii.unisant.edu.mx>`__.
