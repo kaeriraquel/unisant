@@ -2,9 +2,9 @@ Universidad Santander
 =====================
 
 .. toctree::
-   :caption: contenido
-
-   introduction
+   :caption: Contenido
+   
+   menu
 
 .. toctree::
    :caption: Guía de Usuario
