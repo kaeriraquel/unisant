@@ -2,7 +2,7 @@
    :alt: logo
 
 Esta es una guía de usuario creada para los usuarios de la plataforma
-`Unisant <http://sii.unisant.edu.mx>`__.
+`UNISANT <http://sii.unisant.edu.mx>`__.
 
 Introducción
 ------------

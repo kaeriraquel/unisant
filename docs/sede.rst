@@ -78,7 +78,7 @@ de alumnos estatales **sin plan**.
 .. figure:: /images/alumnos-estatales-sinplan.png
    :alt: Alumnos estatales sin plan
 
-   Alumnos estatales sin plan
+
 
 Notaremos que al hacer clic sobre el nombre de el alumno al que se le
 quiera agregar un plan de pago nos llevará a la siguiente vista:
@@ -86,7 +86,7 @@ quiera agregar un plan de pago nos llevará a la siguiente vista:
 .. figure:: /images/planes-pago-alumnos-estatales-sin-plan.png
    :alt: Alumnos estatales sin plan 2
 
-   Alumnos estatales sin plan 2
+
 
 Si hacemos clic sobre *Seleccionar plan de pagos* nos desglosará una
 lista de plan de pagos, donde se eligirá la que el usuario considere
@@ -99,7 +99,7 @@ adecuado, se puede generar uno seleccionando:
 .. figure:: /images/nuevoplandepagos.png
    :alt: Alumnos estatales sin plan
 
-   Alumnos estatales sin plan
+
 
 Seleccionamos el tipo de **concepto** que vamos a agregar.
 
@@ -151,7 +151,7 @@ y concluidas.
 .. figure:: /images/todas-conciliaciones.png
    :alt: Todas las conciliaciones
 
-   Todas las conciliaciones
+
 
 Si seleccionamos uno de los conceptos de la lista podremos visualizar
 los datos de conciliación cómo *recaudación total, pagos y
@@ -162,7 +162,6 @@ etc.
 .. figure:: /images/ejemplo-conciliado.png
    :alt: Todas las conciliaciones
 
-   Todas las conciliaciones
 
 En la parte superior podremos ver la lista de pagos de materias
 incluidos, la cual tiene sus propias funciones, esta lista tambien se
@@ -171,7 +170,6 @@ podrá imprimir ó exportar en el formato que el usuario lo requiera.
 .. figure:: /images/pagos-materias-ej-conciliado.png
    :alt: Todas las conciliaciones
 
-   Todas las conciliaciones
 
 En la columna **Alumno** podemos dar clic sobre el nombre del alumno que
 deseemos ver su información cómo su nombre, matrícula, sede, carrera,
@@ -180,7 +178,6 @@ etc, cómo se muestra a continuación:
 .. figure:: /images/informacion-alumno.png
    :alt: Información de alumno
 
-   Información de alumno
 
 **NOTA:** Los campos marcados en verde son los únicos que podrán ser
 modificados, los de color café no se puede cambiar su valor al menos que
@@ -195,7 +192,6 @@ comentarios ó realizar otras acciones cómo se muestra:
 .. figure:: /images/comentarios-acciones.png
    :alt: Comentarios y acciones
 
-   Comentarios y acciones
 
 -  **Acciones:**
 
@@ -207,7 +203,6 @@ comentarios ó realizar otras acciones cómo se muestra:
    .. figure:: /images/nuevopago.png
       :alt: Nuevo pago
 
-      Nuevo pago
 
    | También se encuentra el metodo de pago y el tipo de pago, el cuál
      al seleccionarlo desglosará una lista cómo la siguiente:
@@ -237,7 +232,6 @@ comentarios ó realizar otras acciones cómo se muestra:
    .. figure:: /images/nuevoplandepagos.png
       :alt: Alumnos estatales sin plan
 
-      Alumnos estatales sin plan
 
    Seleccionamos el tipo de **concepto** que vamos a agregar.
 
@@ -261,7 +255,6 @@ comentarios ó realizar otras acciones cómo se muestra:
    .. figure:: /images/plan-local.png
       :alt: plan alumnos
 
-      plan alumnos
 
    -  ELIMINAR ALUMNO , ELIMINAR DEL SISTEMA:
 
@@ -298,7 +291,6 @@ comentarios ó realizar otras acciones cómo se muestra:
    .. figure:: /images/nuevaconciliacion-pagosyreq.png
       :alt: conciliacion pagos y requerimientos
 
-      conciliacion pagos y requerimientos
 
    Aqui se introduciran los datos para realizar una conciliación y serán
    marcados como *Revisión* cómo lo indica ahí, en la parte inferior se

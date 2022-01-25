@@ -8,7 +8,6 @@ Inicio de sesión
 .. figure:: /images/inicio-sesion.png
    :alt: Inicio de sesion
 
-   Inicio de sesion
 
 Se deberan ingresar las credenciales de acceso dependiendo el tipo de
 usuario que se tiene configurado, es decir, su usuario y contraseña
@@ -26,18 +25,15 @@ explicados a detalle en las siguientes secciones:
 .. figure:: /images/sesion-sede.png
    :alt: Sesion Sede
 
-   Sesion Sede
 
 -  **CONTROL ESCOLAR**
 
 .. figure:: /images/sesion-controlescolar.png
    :alt: Sesion Control Escolar
 
-   Sesion Control Escolar
 
 -  **ADMINISTRADOR**
 
 .. figure:: /images/sesion-administrador.png
    :alt: Sesion Administrador
 
-   Sesion Administrador
