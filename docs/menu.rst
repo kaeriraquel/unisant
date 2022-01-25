@@ -1,5 +1,5 @@
-Universidad Santander
---------------------
+.. figure:: /images/logo_unisant.png
+   :alt: logo
 
 Esta es una guía de usuario creada para los usuarios de la plataforma
 `Unisant <http://sii.unisant.edu.mx>`__.
@@ -46,4 +46,4 @@ El sistema se divide en 3 zonas:
 .. figure:: /images/vistageneral.png
    :alt: imagen1
 
-   imagen1
+
