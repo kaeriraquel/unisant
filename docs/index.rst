@@ -1,5 +1,4 @@
-Universidad Santander
-=====================
+
 
 .. toctree::
    :caption: Contenido
