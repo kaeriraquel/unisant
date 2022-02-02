@@ -639,7 +639,7 @@ Una vez llenos los campos correspondientes se puede proceder a guardar
 los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 `esta <#lista-alumnos>`__ lista de alumnos.
 
-.. |image0| image:: /images/distribucion-menu-sede-1.PNG
+.. |image0| image:: /images/distribucion-menu-sede-1.png
 .. |image1| image:: /images/dashboard-sede.png
 .. |image2| image:: /images/busqueda-alumno-panel.png
 .. |image3| image:: /images/configuracion-usuario.png
