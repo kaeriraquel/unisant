@@ -1,4 +1,4 @@
-SEDE
+Sede
 ====
 
 Distribución del Menú
