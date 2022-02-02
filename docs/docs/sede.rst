@@ -256,7 +256,9 @@ comentarios ó realizar otras acciones cómo se muestra:
       :alt: plan alumnos
 
 
-   -  ELIMINAR ALUMNO , ELIMINAR DEL SISTEMA:
+   -  ELIMINAR ALUMNO: 
+   Al seleccionar esta opción se borrará los datos del alumno, unicamente
+    el administrador del sistema podrá seguir visualizandolo pero en otra sección.
 
 **7. Pagos y requerimientos - Solicitar nueva conciliación**
 

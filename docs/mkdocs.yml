@@ -5,6 +5,6 @@ nav:
   - 'Guía de Usuario':
     - 'Inicio de sesión': 'inicio-sesion.md'
     - 'Sede': 'sede.md'
-  - Acerca de: 'about.md'
+
 
 theme: readthedocs

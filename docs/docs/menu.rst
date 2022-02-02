@@ -1,4 +1,4 @@
-.. figure:: /images/logo_unisant.png
+.. figure:: /images/logounisant.png
    :alt: logo
     :height: 100px
       :width: 200 px
