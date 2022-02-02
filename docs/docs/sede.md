@@ -4,7 +4,7 @@
 
 Cómo primer punto, se va a encontrar la interfaz principal, la cual es el **panel de control**, esta se visualizara automaticamente al iniciar sesion en la plataforma. 
 
-![](/images/distribucion-menu-sede-1.png)  
+![](/images/distribucion-menu-sede-1.PNG)  
 
 Tenemos del lado izquiero el menú principal, el cuál se conforma por la sección **Panel de control**, **Alumnos** y **Documentación oficial**.
 
