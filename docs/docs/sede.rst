@@ -8,7 +8,7 @@ Cómo primer punto, se va a encontrar la interfaz principal, la cual es
 el **panel de control**, esta se visualizara automaticamente al iniciar
 sesion en la plataforma.
 
-.. figure:: /images/distribucion-menu-sede-1.png
+.. figure:: /_images/distribucion-menu-sede-1.png
    :alt: Distribucion Menu Sede 1
 
    Distribucion Menu Sede 1
