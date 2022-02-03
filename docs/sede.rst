@@ -256,7 +256,7 @@ lo solicite al administrador.
 
 -  **Comentarios y Acciones:**
 
-   ::
+
 
       1. **Comentarios:**Se pueden introducir comentarios acerca de la información del alumno.  
       2. **Credencial de estudiante:** 
@@ -605,9 +605,7 @@ partes:
    campos seleccionar el botón *Guardar* en caso que se quieran
    conservar los cambios.
 
-::
-
-   ![](/images/informacion-adicional-estatal.png)  
+   |image37|
 
 Si regresamos al contenido original donde se encuentra la información
 del alumno notaremos que en la parte superior aparecerá una tabla del
@@ -676,3 +674,4 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image34| image:: /images/documentos-estatal.png
 .. |image35| image:: /images/nuevo-alumno-estatal.png
 .. |image36| image:: /images/facturacion-estatal.png
+.. |image37| image:: /images/informacion-adicional-estatal.png
