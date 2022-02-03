@@ -258,7 +258,7 @@ lo solicite al administrador.
 
 
 
-      1. **Comentarios:**Se pueden introducir comentarios acerca de la información del alumno.  
+      1. **Comentarios:** Se pueden introducir comentarios acerca de la información del alumno.  
       2. **Credencial de estudiante:** 
       3. **Nuevo Pago:** Muestra un formulario con los datos del pago del alumno el cuál contiene el área de *Seleccionar archivo* para adjuntar el comprobante de pago, ya sea documento o imagen.
 
@@ -526,7 +526,8 @@ pueden realizar búsquedas por el dato que se le fácilite al usuario
 
 |image27|
 
-### Alumnos Federales
+Alumnos Federales
+~~~~~~~~~~~~~~~~~
 
 Esta opción se visualiza en el menú del lado izquierdo en **Alumnos**,
 en esta sección se visualizará la lista de alumnos federales en una
