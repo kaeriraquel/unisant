@@ -256,7 +256,7 @@ lo solicite al administrador.
 
 -  **Comentarios y Acciones:**
 
-   ::
+ 
 
       1. **Comentarios:** Se pueden introducir comentarios acerca de la información del alumno.  
       2. **Credencial de estudiante:** 
@@ -573,7 +573,8 @@ pueden realizar búsquedas por el dato que se le fácilite al usuario
 
 |image27|
 
-### Alumnos Federales
+Alumnos Federales
+~~~~~~~~~~~~~~~~~
 
 Esta opción se visualiza en el menú del lado izquierdo en **Alumnos**,
 en esta sección se visualizará la lista de alumnos federales en una
@@ -701,7 +702,7 @@ Una vez llenos los campos correspondientes se puede proceder a guardar
 los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 `esta <#lista-alumnos>`__ lista de alumnos.
 
-.. |image0| image:: /images/distribucion-menu-sede-1.PNG
+.. |image0| image:: /images/distribucion-menu-sede-1.png
 .. |image1| image:: /images/dashboard-sede.png
 .. |image2| image:: /images/busqueda-alumno-panel.png
 .. |image3| image:: /images/configuracion-usuario.png
