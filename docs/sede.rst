@@ -428,6 +428,8 @@ lo solicite al administrador.
    
    |image50|  
    
+   Facturación y aclaración:  
+   
    |image51|  
 
    6.\ **Estado:** Cómo podemos apreciar en la imagen, hay una marca color **Rojo**
@@ -732,6 +734,6 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image47| image:: /images/pagos-nuevaconciliacion.png
 .. |image48| image:: /images/requerimientos-nuevaconciliacion.png
 .. |image49| image:: /images/comprobante-ingreso.png
-.. |image50| image:: /images/factura-p1.png
-.. |image51| image:: /images/factura-p2.png
+.. |image50| image:: /images/factura-uno.png
+.. |image51| image:: /images/factura-dos.png
 
