@@ -256,7 +256,7 @@ lo solicite al administrador.
 
 -  **Comentarios y Acciones:**
 
-
+   ::
 
       1. **Comentarios:** Se pueden introducir comentarios acerca de la información del alumno.  
       2. **Credencial de estudiante:** 
@@ -433,7 +433,7 @@ lo solicite al administrador.
 
    |image40|  
 
-   1.Plan: Si el icono está en color naranja, quiere decir que aún no se ha asignado un
+   1. **Plan:** Si el icono está en color naranja, quiere decir que aún no se ha asignado un
    plan, si se hace clic sobre él aparecerá una lista para seleccionar algún plan creado
    para este alumno.  
    2.Monto: Si se desea modificar este dado simplemente se hace doble clic sobre el monto
@@ -441,15 +441,15 @@ lo solicite al administrador.
 
    |image41|  
 
-   3.Comprobante: En caso de que no se haya subido un recibo de pago, se podrá hacer 
+   3. **Comprobante:** En caso de que no se haya subido un recibo de pago, se podrá hacer 
    dando doble clic sobre la leyenda *Sin comprobante*, inmediatamente aparecerá 
    un botón llamado **Seleccionar archivo** para adjuntar el recibo.  
-   4.Fecha de pago: Este campo tambien es modificable si se hace doble clic sobre él, 
+   4. **Fecha de pago:** Este campo tambien es modificable si se hace doble clic sobre él, 
    se podrá seleccionar la fecha desde un calendario o manualmente.  
 
    |image42|  
 
-   5.Concepto/Nota: Al hacer clic sobre esta opción desglosará un menú con la opción de 
+   5. **Concepto/Nota:** Al hacer clic sobre esta opción desglosará un menú con la opción de 
    *Generar un pago* y *Planes de pago*, por último tiene la opción de *Modificar el fólio 
    impreso*.  
 
@@ -460,13 +460,13 @@ lo solicite al administrador.
 
    |image46|
 
-   6.Eliminar: Únicamente si el pago no ha sido conciliado aparecerá esta opción, la cuál al 
+   6. **Eliminar:** Únicamente si el pago no ha sido conciliado aparecerá esta opción, la cuál al 
    seleccionarla aparecerá una ventana indicando que se ingrese el motivo de eliminación y 
    proceder a eliminar el pago seleccionado:  
 
    |image43|  
 
-   7.Devolver: De igual manera que el botón de eliminar, solamente aparecerá esta opción si el 
+   7. **Devolver:** De igual manera que el botón de eliminar, solamente aparecerá esta opción si el 
    pago no se ha conciliado, al seleccionar esta opción aparecerá la siguiente ventana indicando 
    la leyenda siguiente:  
 
@@ -573,8 +573,7 @@ pueden realizar búsquedas por el dato que se le fácilite al usuario
 
 |image27|
 
-Alumnos Federales
-~~~~~~~~~~~~~~~~~
+### Alumnos Federales
 
 Esta opción se visualiza en el menú del lado izquierdo en **Alumnos**,
 en esta sección se visualizará la lista de alumnos federales en una
@@ -668,13 +667,9 @@ partes:
    campos seleccionar el botón *Guardar* en caso que se quieran
    conservar los cambios.
 
-<<<<<<< HEAD
 
 
    |image39|  
-=======
-   |image37|
->>>>>>> 77cb1609daea7a924ea9c4fa77f2c1973f18e514
 
 Si regresamos al contenido original donde se encuentra la información
 del alumno notaremos que en la parte superior aparecerá una tabla del
@@ -706,7 +701,7 @@ Una vez llenos los campos correspondientes se puede proceder a guardar
 los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 `esta <#lista-alumnos>`__ lista de alumnos.
 
-.. |image0| image:: /images/distribucion-menu-sede-1.png
+.. |image0| image:: /images/distribucion-menu-sede-1.PNG
 .. |image1| image:: /images/dashboard-sede.png
 .. |image2| image:: /images/busqueda-alumno-panel.png
 .. |image3| image:: /images/configuracion-usuario.png
@@ -743,7 +738,6 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image34| image:: /images/documentos-estatal.png
 .. |image35| image:: /images/nuevo-alumno-estatal.png
 .. |image36| image:: /images/facturacion-estatal.png
-<<<<<<< HEAD
 .. |image37| image:: /images/prueba-documentos.png
 .. |image38| image:: /images/lista-nombres-documentos.png
 .. |image39| image:: /images/informacion-adicional-estatal.png
@@ -754,6 +748,3 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image44| image:: /images/devolucion.png
 .. |image45| image:: /images/modificar-folio.png
 .. |image46| image:: /images/folio-interno.png
-=======
-.. |image37| image:: /images/informacion-adicional-estatal.png
->>>>>>> 77cb1609daea7a924ea9c4fa77f2c1973f18e514
