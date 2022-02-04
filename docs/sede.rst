@@ -432,11 +432,20 @@ lo solicite al administrador.
     que si pueden ser modificados dando clic sobre el dato requerido:  
 
    |image40|  
+   
+   <h4>
+
+Campos editables para pagos No Conciliados
+
+.. raw:: html
+
+   </h4>
 
    1. **Plan:** Si el icono está en color naranja, quiere decir que aún no se ha asignado un
    plan, si se hace clic sobre él aparecerá una lista para seleccionar algún plan creado
    para este alumno.  
-   2.Monto: Si se desea modificar este dado simplemente se hace doble clic sobre el monto
+   
+   2. **Monto:** Si se desea modificar este dado simplemente se hace doble clic sobre el monto
     para insertar el monto correcto. 
 
    |image41|  
@@ -444,6 +453,7 @@ lo solicite al administrador.
    3. **Comprobante:** En caso de que no se haya subido un recibo de pago, se podrá hacer 
    dando doble clic sobre la leyenda *Sin comprobante*, inmediatamente aparecerá 
    un botón llamado **Seleccionar archivo** para adjuntar el recibo.  
+   
    4. **Fecha de pago:** Este campo tambien es modificable si se hace doble clic sobre él, 
    se podrá seleccionar la fecha desde un calendario o manualmente.  
 
