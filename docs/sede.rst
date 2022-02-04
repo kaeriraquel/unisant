@@ -39,15 +39,7 @@ Menú superior
 sesión y el nombre de la Sede, en este caso *Orizaba*, al seleccionar el
 nombre del usuario nos desglosará un menú con estas opciones:
 
-.. container::
-
-   .. raw:: html
-
-      <p style="text-align:center;">
-
-   .. raw:: html
-
-      </p>
+|image53|
 
 Si seleccionamos cualquiera de las dos primeras opciones, ya sea,
 *Perfil ó Configuración* nos mostrará un formulario tanto para modificar
@@ -78,15 +70,7 @@ presionamos el botón superior izquierdo **REGRESAR**.
 **NOTA:** Si hacemos clic derecho en cualquier parte de la plataforma en
 la pantalla principal, nos aparecerá el siguiente menú rápido:
 
-.. container::
-
-   .. raw:: html
-
-      <p style="text-align:center;">
-
-   .. raw:: html
-
-      </p>
+|image54|
 
 -  **Inicio:** Es la pantalla principal del panel de control.
 -  **Actualizar Federales:** Dirige hacia la información de los alumnos
@@ -117,15 +101,7 @@ historial de conciliaciones.
 
 En esta sección se muestra el total recibido
 
-.. container::
-
-   .. raw:: html
-
-      <p style="text-align:center;">
-
-   .. raw:: html
-
-      </p>
+|image55|
 
 Al hacer clic en la opción seleccionada se mostrará la siguiente vista:
 
@@ -144,15 +120,7 @@ federales registrados en Study.
 **4. Alumnos sin plan** Muestra el total de alumnos que aún no tienen un
 plan asignado.
 
-.. container::
-
-   .. raw:: html
-
-      <p style="text-align:center;">
-
-   .. raw:: html
-
-      </p>
+|image56|
 
 Al hacer clic en la opción seleccionada se mostrará la siguiente lista
 de alumnos estatales **sin plan**.
@@ -176,15 +144,7 @@ adecuado, se puede generar uno seleccionando:
 
 Seleccionamos el tipo de **concepto** que vamos a agregar.
 
-.. container::
-
-   .. raw:: html
-
-      <p style="text-align:center;">
-
-   .. raw:: html
-
-      </p>
+|image57|
 
 Una vez completados los datos requeridos seleccionamos el botón de
 **CREAR PLAN DE PAGO** y notaremos que en la parte inferior se mostrará
@@ -194,28 +154,12 @@ el plan agregado dentro de la misma ventana.
 | Muestra el número de alumnos estatales registrados en la plataforma
   local.
 
-.. container::
-
-   .. raw:: html
-
-      <p style="text-align:center;">
-
-   .. raw:: html
-
-      </p>
+|image58|
 
 | **6. Todas las conciliaciones**
 | Muestra el número total de conciliaciones.
 
-.. container::
-
-   .. raw:: html
-
-      <p style="text-align:center;">
-
-   .. raw:: html
-
-      </p>
+|image59|
 
 Al hacer clic en la opción seleccionada *Todas las conciliaciones* nos
 mostrará la siguiente lista que es el total de conciliaciones en proceso
@@ -265,15 +209,7 @@ lo solicite al administrador.
    | También se encuentra el metodo de pago y el tipo de pago, el cuál
      al seleccionarlo desglosará una lista cómo la siguiente:
 
-   .. container::
-
-      .. raw:: html
-
-         <p style="text-align:center;">
-
-      .. raw:: html
-
-         </p>
+|image60|
 
    | Una vez seleccionado el tipo de pago y de haber realizado los
      cambios correspondientes, hacer clic en el botón **Guardar**, en
@@ -294,15 +230,7 @@ lo solicite al administrador.
 
    Seleccionamos el tipo de **concepto** que vamos a agregar.
 
-   .. container::
-
-      .. raw:: html
-
-         <p style="text-align:center;">
-
-      .. raw:: html
-
-         </p>
+|image61|
 
    | Una vez completados los datos requeridos seleccionamos el botón de
      **CREAR PLAN DE PAGO** y notaremos que en la parte inferior se
@@ -317,44 +245,20 @@ lo solicite al administrador.
       descargará la información del estado de cuenta que estamos
       visualizando pero en formato PDF de la siguiente manera:
 
-   .. container::
-
-      .. raw:: html
-
-         <p style="text-align:center;">
-
-      .. raw:: html
-
-         </p>
+   |image62|
 
    2. Se puede agregar la fecha de inicio y la periodicidad del día en
       el que se estará haciendo el cobro de colegiatura, si se hace clic
       sobre la opcion Nº 2 se mostrará una ventana de ayuda cómo la
       siguiente:
 
-   .. container::
-
-      .. raw:: html
-
-         <p style="text-align:center;">
-
-      .. raw:: html
-
-         </p>
+   |image63|
 
    3. Se muestra el porcentaje obtenido en caso de que se cuente con una
       beca, de igual manera si se selecciona esa opcion mostrará una
       ventana de ayuda cómo la siguiente:
 
-   .. container::
-
-      .. raw:: html
-
-         <p style="text-align:center;">
-
-      .. raw:: html
-
-         </p>
+   |image64|
 
    4. En caso de que se hayan modificado los datos de periodicidad, para
       guardar los cambios se seleccionará el botón *Actualizar*. Si
@@ -376,42 +280,19 @@ lo solicite al administrador.
       ventana en el navegador con el comprobante en formato de imagen
       cómo se muestra a continuación:
 
-   .. container::
-
-      .. raw:: html
-
-         <p style="text-align:center;">
-
-      .. raw:: html
-
-         </p>
+   |image65|
 
    4. **Adicionales:**
 
    -  **Concepto:** Si se selecciona esta opción se mostrará el concepto
       relacionado con el pago realizado.
 
-      .. container::
-
-         .. raw:: html
-
-            <p style="text-align:center;">
-
-         .. raw:: html
-
-            </p>
+   |image66|  
+   
    -  **Nota:** Al seleccionar esta opción mostrará las notas en
       relacion a este pago.
 
-      .. container::
-
-         .. raw:: html
-
-            <p style="text-align:center;">
-
-         .. raw:: html
-
-            </p>
+    |image67|
 
    5.\ **Acciones:** Muestra la opción para generar el recibo de pago,
    si se hace clic sobre el recibo deseado descargará automaticamente un
@@ -736,4 +617,19 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image49| image:: /images/comprobante-ingreso.png
 .. |image50| image:: /images/factura-uno.png
 .. |image51| image:: /images/factura-dos.png
+.. |image53| image:: /images/opcionesdeperfil.png
+.. |image54| image:: /images/menu-rapido.png
+.. |image55| image:: /images/estadisticas1.png
+.. |image56| image:: /images/alumnossinplan.png
+.. |image57| image:: /images/conceptonuevoplan.png
+.. |image58| image:: /images/estatales-plataforma-local.png
+.. |image59| image:: /images/num-conciliaciones-panel.png
+.. |image60| image:: /images/tipodepago.png
+.. |image61| image:: /images/conceptonuevoplan.png
+.. |image62| image:: /images/estado-cuenta.png
+.. |image63| image:: /images/cada.png
+.. |image64| image:: /images/beca.png
+.. |image65| image:: /images/comprobante-pago.png
+.. |image66| image:: /images/concepto-pago.png
+.. |image67| image:: /images/nota.png
 
