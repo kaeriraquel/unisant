@@ -422,6 +422,13 @@ lo solicite al administrador.
    Al abrir el archivo descargado se visualizará de la siguiente manera:
 
    |image22|  
+   
+   **NOTA** Si hacemos clic sobre el URL o escaneamos el código QR nos enviará a una liga con la información del recibo anterior donde se podrán ingresar datos del alumno para 
+   solicitar facturación,en la parte inferior tenemos dos opciones, la primera es el botón para *Solicitar facturación* si el alumno así lo requiere ó la opción de *Hablar con mi asesor de sede* la cuál dirigirá al alumno al correo institucional.  
+   
+   |image50|  
+   
+   |image51|  
 
    6.\ **Estado:** Cómo podemos apreciar en la imagen, hay una marca color **Rojo**
    la cuál significa que el pago se ha **Conciliado** por lo que la información 
@@ -528,15 +535,7 @@ pueden realizar búsquedas por el dato que se le fácilite al usuario
       navegador abriendo el archivo con la posibilidad de guardarse o
       unicamente visualizarlo:
 
-      .. container::
-
-         .. raw:: html
-
-            <p style="text-align:center;">
-
-         .. raw:: html
-
-            </p>
+    |image49|
 
    **NOTA:** La columna de **Estado Alumno** está marcada como *Activo*
    lo que indica que está dado de alta dentro de la institución, estos
@@ -732,3 +731,7 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image46| image:: /images/folio-interno.png
 .. |image47| image:: /images/pagos-nuevaconciliacion.png
 .. |image48| image:: /images/requerimientos-nuevaconciliacion.png
+.. |image49| image:: /images/comprobante-ingreso.png
+.. |image50| image:: /images/factura-p1.png
+.. |image51| image:: /images/factura-p2.png
+
