@@ -425,21 +425,15 @@ lo solicite al administrador.
 
    6.\ **Estado:** Cómo podemos apreciar en la imagen, hay una marca color **Rojo**
    la cuál significa que el pago se ha **Conciliado** por lo que la información 
-   de ese pago ya no puede ser modificada. Cuando la marca está en color **Negro**
-    quiere decir que aún **No está conciliado** dicho pago, por lo tanto habrá datos
-    que si pueden ser modificados dando clic sobre el dato requerido:  
+   de ese pago ya no puede ser modificada. Cuando la marca está en color **Negro** quiere decir que aún **No está conciliado** dicho pago, por lo tanto habrá datos que si pueden ser modificados dando clic sobre el dato requerido:  
 
    |image40|  
-
 
    1.\ **Plan:** Si el icono está en color naranja, quiere decir que aún no se ha asignado un
    plan, si se hace clic sobre él aparecerá una lista para seleccionar algún plan creado
    para este alumno.  
    
-   
-   2.\ **Monto:** Si se desea modificar este dado simplemente se hace doble clic sobre el monto
-    para insertar el monto correcto. 
-
+   2.\ **Monto:** Si se desea modificar este dado simplemente se hace doble clic sobre el monto para insertar el monto correcto. 
 
    |image41|  
 
@@ -449,7 +443,6 @@ lo solicite al administrador.
    
    4.\ **Fecha de pago:** Este campo tambien es modificable si se hace doble clic sobre él, 
    se podrá seleccionar la fecha desde un calendario o manualmente.  
-
 
    |image42|  
 
@@ -494,27 +487,11 @@ pueden realizar búsquedas por el dato que se le fácilite al usuario
 
 -  Pagos:
 
-   .. container::
-
-      .. raw:: html
-
-         <p style="text-align:center;">
-
-      .. raw:: html
-
-         </p>
+   |image47|
 
 -  Requerimientos:
 
-   .. container::
-
-      .. raw:: html
-
-         <p style="text-align:center;">
-
-      .. raw:: html
-
-         </p>
+   |image48|
 
    Notaremos que ambas acciones tiene la opción de *Solicitar nueva
    conciliación*, al dar clic sobre esa opción nos aparecerá lo
@@ -706,7 +683,7 @@ Una vez llenos los campos correspondientes se puede proceder a guardar
 los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 `esta <#lista-alumnos>`__ lista de alumnos.
 
-.. |image0| image:: /images/distribucion-menu-sede-1.PNG
+.. |image0| image:: /images/distribucion-menu-sede-1.png
 .. |image1| image:: /images/dashboard-sede.png
 .. |image2| image:: /images/busqueda-alumno-panel.png
 .. |image3| image:: /images/configuracion-usuario.png
@@ -753,3 +730,5 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image44| image:: /images/devolucion.png
 .. |image45| image:: /images/modificar-folio.png
 .. |image46| image:: /images/folio-interno.png
+.. |image47| image:: /images/pagos-nuevaconciliacion.png
+.. |image48| image:: /images/requerimientos-nuevaconciliacion.png
