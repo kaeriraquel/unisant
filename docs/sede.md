@@ -171,7 +171,7 @@ En esta misma área podremos encontrar un apartado para agregar comentarios ó r
 
 - **Comentarios y Acciones:**  
 
-      1. **Comentarios:**Se pueden introducir comentarios acerca de la información del alumno.  
+      1. **Comentarios:** Se pueden introducir comentarios acerca de la información del alumno.  
       2. **Credencial de estudiante:** 
       3. **Nuevo Pago:** Muestra un formulario con los datos del pago del alumno el cuál contiene el área de *Seleccionar archivo* para adjuntar el comprobante de pago, ya sea documento o imagen.
      
@@ -375,7 +375,7 @@ Esta opción se visualiza en el menú del lado izquierdo en **Alumnos**, en esta
 
    6. **Agregar información adicional:** Esta opción nos mostrará un formulario para introducir información personal, laboral y escolar más específica del alumno. Al terminar el correcto llenado de los campos seleccionar el botón *Guardar* en caso que se quieran conservar los cambios.  
 
-    ![](/images/informacion-adicional-estatal.png)  
+      ![](/images/informacion-adicional-estatal.png)  
 
    Si regresamos al contenido original donde se encuentra la información del alumno notaremos que en la parte superior aparecerá una tabla del historial de pagos del alumno explicada anteriormente [aquí](#historial).  
 

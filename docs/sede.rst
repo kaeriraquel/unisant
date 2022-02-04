@@ -423,7 +423,54 @@ lo solicite al administrador.
 
    Al abrir el archivo descargado se visualizará de la siguiente manera:
 
-   |image22|
+   |image22|  
+
+   6.\ **Estado:** Cómo podemos apreciar en la imagen, hay una marca color **Rojo**
+   la cuál significa que el pago se ha **Conciliado** por lo que la información 
+   de ese pago ya no puede ser modificada. Cuando la marca está en color **Negro**
+    quiere decir que aún **No está conciliado** dicho pago, por lo tanto habrá datos
+    que si pueden ser modificados dando clic sobre el dato requerido:  
+
+   |image40|  
+
+   1.Plan: Si el icono está en color naranja, quiere decir que aún no se ha asignado un
+   plan, si se hace clic sobre él aparecerá una lista para seleccionar algún plan creado
+   para este alumno.  
+   2.Monto: Si se desea modificar este dado simplemente se hace doble clic sobre el monto
+    para insertar el monto correcto. 
+
+   |image41|  
+
+   3.Comprobante: En caso de que no se haya subido un recibo de pago, se podrá hacer 
+   dando doble clic sobre la leyenda *Sin comprobante*, inmediatamente aparecerá 
+   un botón llamado **Seleccionar archivo** para adjuntar el recibo.  
+   4.Fecha de pago: Este campo tambien es modificable si se hace doble clic sobre él, 
+   se podrá seleccionar la fecha desde un calendario o manualmente.  
+
+   |image42|  
+
+   5.Concepto/Nota: Al hacer clic sobre esta opción desglosará un menú con la opción de 
+   *Generar un pago* y *Planes de pago*, por último tiene la opción de *Modificar el fólio 
+   impreso*.  
+
+   |image45|  
+
+   Si se selecciona la opción para *Modificar fólio impreso* aparecerá una ventana con la 
+   opción para ingresar la modificación que se desea realizar procediendo a guardar los cambios:  
+
+   |image46|
+
+   6.Eliminar: Únicamente si el pago no ha sido conciliado aparecerá esta opción, la cuál al 
+   seleccionarla aparecerá una ventana indicando que se ingrese el motivo de eliminación y 
+   proceder a eliminar el pago seleccionado:  
+
+   |image43|  
+
+   7.Devolver: De igual manera que el botón de eliminar, solamente aparecerá esta opción si el 
+   pago no se ha conciliado, al seleccionar esta opción aparecerá la siguiente ventana indicando 
+   la leyenda siguiente:  
+
+   |image44|  
 
 Por último, dentro de esta misma ventana en la parte superior nos
 mostrará la sección de **Control de Materias**, donde podremos ver tanto
@@ -589,15 +636,30 @@ partes:
 
    |image33|
 
-   En la parte superior hay un apartado para subir los documentos
+   1.En la parte inferior hay un apartado para subir los documentos
    oficiales del alumno que requiera la institución, tales cómo: CURP,
    acta de nacimiento, etc. Se pueden subir dando clic sobre la flecha o
    arrastrando los archivos con el mouse, del equipo al area marcada.
-   Notaremos que hay 3 opciones del proceso de validación: En
-   validación,Necesita correción y válidado, los cuales varían de
-   acuerdo a la revisión que se realice sobre esa documentación.
+   2.Notaremos que hay 3 opciones del proceso de validación: 
+    - En validación: significa que está en validación, es decir, 
+   aún está en espera de revisión por el personal institucional.
+    - Necesita correción: Una vez revisado cada documento la marca cambiará 
+    a éste color si se tiene que modificar algún documento.
+    - Válidado: Quiere decir que ya están correctos y/o validados.
 
-   |image34|
+   |image34|   
+
+   1.Cada documento tendrá una flecha al lado derecho del título, la 
+   cuál al seleccionarla desglosará una lista para elegir el nombre
+   estándar que debe llevar cada uno. 
+   
+   2.De igual manera notaremos que del lado superior derecho tendrá una 
+   marca color **negro** por lo que indica que está en revisión. 
+
+   3.Por último notaremos que si hacemos clic derecho sobre algún documento
+   nos dará la opción de eliminarlo si así se desea.
+
+   |image38|
 
 6. **Agregar información adicional:** Esta opción nos mostrará un
    formulario para introducir información personal, laboral y escolar
@@ -605,9 +667,9 @@ partes:
    campos seleccionar el botón *Guardar* en caso que se quieran
    conservar los cambios.
 
-::
 
-   ![](/images/informacion-adicional-estatal.png)  
+
+   |image39|  
 
 Si regresamos al contenido original donde se encuentra la información
 del alumno notaremos que en la parte superior aparecerá una tabla del
@@ -676,3 +738,13 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image34| image:: /images/documentos-estatal.png
 .. |image35| image:: /images/nuevo-alumno-estatal.png
 .. |image36| image:: /images/facturacion-estatal.png
+.. |image37| image:: /images/prueba-documentos.png
+.. |image38| image:: /images/lista-nombres-documentos.png
+.. |image39| image:: /images/informacion-adicional-estatal.png
+.. |image40| image:: /images/editables-pagos.png
+.. |image41| image:: /images/plan-monto.png
+.. |image42| image:: /images/comprobante-fecha.png
+.. |image43| image:: /images/eliminar-pago.png
+.. |image44| image:: /images/devolucion.png
+.. |image45| image:: /images/modificar-folio.png
+.. |image46| image:: /images/folio-interno.png
