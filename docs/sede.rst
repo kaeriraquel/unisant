@@ -256,9 +256,9 @@ lo solicite al administrador.
 
 -  **Comentarios y Acciones:**
 
-   ::
 
-      1. **Comentarios:**Se pueden introducir comentarios acerca de la información del alumno.  
+
+      1. **Comentarios:** Se pueden introducir comentarios acerca de la información del alumno.  
       2. **Credencial de estudiante:** 
       3. **Nuevo Pago:** Muestra un formulario con los datos del pago del alumno el cuál contiene el área de *Seleccionar archivo* para adjuntar el comprobante de pago, ya sea documento o imagen.
 
@@ -573,7 +573,8 @@ pueden realizar búsquedas por el dato que se le fácilite al usuario
 
 |image27|
 
-### Alumnos Federales
+Alumnos Federales
+~~~~~~~~~~~~~~~~~
 
 Esta opción se visualiza en el menú del lado izquierdo en **Alumnos**,
 en esta sección se visualizará la lista de alumnos federales en una
@@ -667,9 +668,13 @@ partes:
    campos seleccionar el botón *Guardar* en caso que se quieran
    conservar los cambios.
 
+<<<<<<< HEAD
 
 
    |image39|  
+=======
+   |image37|
+>>>>>>> 77cb1609daea7a924ea9c4fa77f2c1973f18e514
 
 Si regresamos al contenido original donde se encuentra la información
 del alumno notaremos que en la parte superior aparecerá una tabla del
@@ -701,7 +706,7 @@ Una vez llenos los campos correspondientes se puede proceder a guardar
 los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 `esta <#lista-alumnos>`__ lista de alumnos.
 
-.. |image0| image:: /images/distribucion-menu-sede-1.PNG
+.. |image0| image:: /images/distribucion-menu-sede-1.png
 .. |image1| image:: /images/dashboard-sede.png
 .. |image2| image:: /images/busqueda-alumno-panel.png
 .. |image3| image:: /images/configuracion-usuario.png
@@ -738,6 +743,7 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image34| image:: /images/documentos-estatal.png
 .. |image35| image:: /images/nuevo-alumno-estatal.png
 .. |image36| image:: /images/facturacion-estatal.png
+<<<<<<< HEAD
 .. |image37| image:: /images/prueba-documentos.png
 .. |image38| image:: /images/lista-nombres-documentos.png
 .. |image39| image:: /images/informacion-adicional-estatal.png
@@ -748,3 +754,6 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image44| image:: /images/devolucion.png
 .. |image45| image:: /images/modificar-folio.png
 .. |image46| image:: /images/folio-interno.png
+=======
+.. |image37| image:: /images/informacion-adicional-estatal.png
+>>>>>>> 77cb1609daea7a924ea9c4fa77f2c1973f18e514
