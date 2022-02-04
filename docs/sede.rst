@@ -445,19 +445,25 @@ Campos editables para pagos No Conciliados
    plan, si se hace clic sobre él aparecerá una lista para seleccionar algún plan creado
    para este alumno.  
    
+   
    2. **Monto:** Si se desea modificar este dado simplemente se hace doble clic sobre el monto
     para insertar el monto correcto. 
 
+
    |image41|  
+
 
    3. **Comprobante:** En caso de que no se haya subido un recibo de pago, se podrá hacer 
    dando doble clic sobre la leyenda *Sin comprobante*, inmediatamente aparecerá 
    un botón llamado **Seleccionar archivo** para adjuntar el recibo.  
    
+   
    4. **Fecha de pago:** Este campo tambien es modificable si se hace doble clic sobre él, 
    se podrá seleccionar la fecha desde un calendario o manualmente.  
 
+
    |image42|  
+
 
    5. **Concepto/Nota:** Al hacer clic sobre esta opción desglosará un menú con la opción de 
    *Generar un pago* y *Planes de pago*, por último tiene la opción de *Modificar el fólio 
