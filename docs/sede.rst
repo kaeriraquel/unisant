@@ -432,28 +432,28 @@ lo solicite al administrador.
    |image40|  
 
 
-   1. **Plan:** Si el icono está en color naranja, quiere decir que aún no se ha asignado un
+   1.\ **Plan:** Si el icono está en color naranja, quiere decir que aún no se ha asignado un
    plan, si se hace clic sobre él aparecerá una lista para seleccionar algún plan creado
    para este alumno.  
    
    
-   2. **Monto:** Si se desea modificar este dado simplemente se hace doble clic sobre el monto
+   2.\ **Monto:** Si se desea modificar este dado simplemente se hace doble clic sobre el monto
     para insertar el monto correcto. 
 
 
    |image41|  
 
-   3. **Comprobante:** En caso de que no se haya subido un recibo de pago, se podrá hacer 
+   3.\ **Comprobante:** En caso de que no se haya subido un recibo de pago, se podrá hacer 
    dando doble clic sobre la leyenda *Sin comprobante*, inmediatamente aparecerá 
    un botón llamado **Seleccionar archivo** para adjuntar el recibo.  
    
-   4. **Fecha de pago:** Este campo tambien es modificable si se hace doble clic sobre él, 
+   4.\ **Fecha de pago:** Este campo tambien es modificable si se hace doble clic sobre él, 
    se podrá seleccionar la fecha desde un calendario o manualmente.  
 
 
    |image42|  
 
-   5. **Concepto/Nota:** Al hacer clic sobre esta opción desglosará un menú con la opción de 
+   5.\ **Concepto/Nota:** Al hacer clic sobre esta opción desglosará un menú con la opción de 
    *Generar un pago* y *Planes de pago*, por último tiene la opción de *Modificar el fólio 
    impreso*.  
 
@@ -464,13 +464,13 @@ lo solicite al administrador.
 
    |image46|
 
-   6. **Eliminar:** Únicamente si el pago no ha sido conciliado aparecerá esta opción, la cuál al 
+   6.\ **Eliminar:** Únicamente si el pago no ha sido conciliado aparecerá esta opción, la cuál al 
    seleccionarla aparecerá una ventana indicando que se ingrese el motivo de eliminación y 
    proceder a eliminar el pago seleccionado:  
 
    |image43|  
 
-   7. **Devolver:** De igual manera que el botón de eliminar, solamente aparecerá esta opción si el 
+   7.\ **Devolver:** De igual manera que el botón de eliminar, solamente aparecerá esta opción si el 
    pago no se ha conciliado, al seleccionar esta opción aparecerá la siguiente ventana indicando 
    la leyenda siguiente:  
 
@@ -577,7 +577,8 @@ pueden realizar búsquedas por el dato que se le fácilite al usuario
 
 |image27|
 
-### Alumnos Federales
+Alumnos Federales
+~~~~~~~~~~~~~~~~~
 
 Esta opción se visualiza en el menú del lado izquierdo en **Alumnos**,
 en esta sección se visualizará la lista de alumnos federales en una
