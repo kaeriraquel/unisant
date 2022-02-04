@@ -256,7 +256,11 @@ lo solicite al administrador.
 
 -  **Comentarios y Acciones:**
 
+<<<<<<< HEAD
    ::
+=======
+ 
+>>>>>>> aa0656fa2541c079c26cbeb36bbe7df9ff5bbf89
 
       1. **Comentarios:** Se pueden introducir comentarios acerca de la información del alumno.  
       2. **Credencial de estudiante:** 
@@ -432,23 +436,51 @@ lo solicite al administrador.
     que si pueden ser modificados dando clic sobre el dato requerido:  
 
    |image40|  
+   
+   <h4>
 
+<<<<<<< HEAD
+=======
+Campos editables para pagos No Conciliados
+
+.. raw:: html
+
+   </h4>
+
+>>>>>>> aa0656fa2541c079c26cbeb36bbe7df9ff5bbf89
    1. **Plan:** Si el icono está en color naranja, quiere decir que aún no se ha asignado un
    plan, si se hace clic sobre él aparecerá una lista para seleccionar algún plan creado
    para este alumno.  
-   2.Monto: Si se desea modificar este dado simplemente se hace doble clic sobre el monto
+   
+   
+   2. **Monto:** Si se desea modificar este dado simplemente se hace doble clic sobre el monto
     para insertar el monto correcto. 
 
+
    |image41|  
+
+<<<<<<< HEAD
+   3. **Comprobante:** En caso de que no se haya subido un recibo de pago, se podrá hacer 
+   dando doble clic sobre la leyenda *Sin comprobante*, inmediatamente aparecerá 
+   un botón llamado **Seleccionar archivo** para adjuntar el recibo.  
+=======
 
    3. **Comprobante:** En caso de que no se haya subido un recibo de pago, se podrá hacer 
    dando doble clic sobre la leyenda *Sin comprobante*, inmediatamente aparecerá 
    un botón llamado **Seleccionar archivo** para adjuntar el recibo.  
+   
+   
+>>>>>>> aa0656fa2541c079c26cbeb36bbe7df9ff5bbf89
    4. **Fecha de pago:** Este campo tambien es modificable si se hace doble clic sobre él, 
    se podrá seleccionar la fecha desde un calendario o manualmente.  
 
+
    |image42|  
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> aa0656fa2541c079c26cbeb36bbe7df9ff5bbf89
    5. **Concepto/Nota:** Al hacer clic sobre esta opción desglosará un menú con la opción de 
    *Generar un pago* y *Planes de pago*, por último tiene la opción de *Modificar el fólio 
    impreso*.  
@@ -747,4 +779,8 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image43| image:: /images/eliminar-pago.png
 .. |image44| image:: /images/devolucion.png
 .. |image45| image:: /images/modificar-folio.png
+<<<<<<< HEAD
 .. |image46| image:: /images/folio-interno.png
+=======
+.. |image46| image:: /images/folio-interno.png
+>>>>>>> aa0656fa2541c079c26cbeb36bbe7df9ff5bbf89
