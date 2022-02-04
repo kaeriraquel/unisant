@@ -306,12 +306,11 @@ lo solicite al administrador.
    
    **NOTA** Si hacemos clic sobre el URL o escaneamos el código QR nos enviará a una liga con la información del recibo anterior donde se podrán ingresar datos del alumno para 
    solicitar facturación,en la parte inferior tenemos dos opciones, la primera es el botón para *Solicitar facturación* si el alumno así lo requiere ó la opción de *Hablar con mi asesor de sede* la cuál dirigirá al alumno al correo institucional.  
-   
-   |image50|  
+  |image50|  
    
    Facturación y aclaración:  
    
-   |image51|  
+|image51|  
 
    6.\ **Estado:** Cómo podemos apreciar en la imagen, hay una marca color **Rojo**
    la cuál significa que el pago se ha **Conciliado** por lo que la información 
