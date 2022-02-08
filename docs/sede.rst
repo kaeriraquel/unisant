@@ -135,7 +135,11 @@ quiera agregar un plan de pago nos llevará a la siguiente vista:
 Si hacemos clic sobre *Seleccionar plan de pagos* nos desglosará una
 lista de plan de pagos, donde se eligirá la que el usuario considere
 conveniente, posteriormente al elegir el plan, seleccionamos la opción
-de **Añadir Plan**.
+de **Añadir Plan**.  
+
+Cuando existen pagos únicos cómo trámites, inscripciones o de materias se creará un plan de pago automático cómo el siguiente:  
+
+|image69|
 
 En caso de que en la lista de planes desglosada no se encuentre el plan
 adecuado, se puede generar uno seleccionando:
@@ -270,7 +274,7 @@ lo solicite al administrador.
    |image68|  
    
       Se mostrará una pestaña con los **Pagos** realizados actualmente, la cuál es la que estaremos visualizando,
-      continuamente se encuentra la pestaña de **Archivo de pagos eliminados** y **Archivo de pagos devueltos**:
+      continuamente se encuentra la pestaña de **Archivo de pagos eliminados** y **Archivo de pagos devueltos**, por defecto los pagos están ordenados por *Fecha de pago*.
 
    |image20|
 
@@ -637,4 +641,5 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image66| image:: /images/concepto-pago.png
 .. |image67| image:: /images/nota.png
 .. |image68| image:: /images/estadosdelpago.png
+.. |image69| image:: /images/planautomatico.png
 
