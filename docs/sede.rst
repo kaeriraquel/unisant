@@ -75,7 +75,11 @@ tomaremos cómo ejemplo la sede *XALAPA* y hacemos clic en el botón
 Ahora veremos que en la parte superior derecha aparece como usuario y
 sede *XALAPA*, ahora podremos acceder a la lista de alumnos e
 información de esta sede, para regresar a la sesión de la sede original
-presionamos el botón superior izquierdo **REGRESAR**.
+presionamos el botón superior izquierdo **REGRESAR**.  
+
+Si deslizamos hacia abajo en cualquier vista de la plataforma donde tengamos mucha información notaremos que se mostrará un menú con el tipo de usuario, nombre de usuario, sede y el nombre de la pestaña donde estamos trabajando:  
+
+|image72|
 
 **NOTA:** Si hacemos clic derecho en cualquier parte de la plataforma en
 la pantalla principal, nos aparecerá el siguiente menú rápido:
@@ -654,3 +658,4 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image69| image:: /images/planautomatico.png
 .. |image70| image:: /images/ayuda.png
 .. |image71| image:: /images/chat.png
+.. |image72| image:: /images/menuestatico.png
