@@ -137,7 +137,7 @@ lista de plan de pagos, donde se eligirá la que el usuario considere
 conveniente, posteriormente al elegir el plan, seleccionamos la opción
 de **Añadir Plan**.  
 
-Cuando existen pagos únicos cómo trámites, inscripciones o de materias se creará un plan de pago automático cómo el siguiente:  
+Cuando existen pagos únicos cómo trámites, inscripciones o de materias se creará un plan de pago automático, al seleccionar la opción imprimir que se encuentra en la parte superior derecha de esta tabla nos dará la opción de guardarlo en formato PDF:  
 
 |image69|
 
