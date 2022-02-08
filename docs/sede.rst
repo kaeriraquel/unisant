@@ -261,13 +261,16 @@ lo solicite al administrador.
    |image64|
 
    4. En caso de que se hayan modificado los datos de periodicidad, para
-      guardar los cambios se seleccionará el botón *Actualizar*. Si
-      regresamos a la pestaña anterior en donde se encuentra la
+      guardar los cambios se seleccionará el botón *Actualizar*.  
+      Si regresamos a la pestaña anterior en donde se encuentra la
       información del alumno podremos encontrarnos con la sección de
-      pagos del alumno, donde se mostrará una pestaña con los **Pagos**
-      realizados actualmente, la cuál es la que estaremos visualizando,
-      continuamente se encuentra la pestaña de **Archivo de pagos
-      eliminados** y **Archivo de pagos devueltos**:
+      pagos del alumno.  
+      **Estados del pago:** En la última columna de la tabla se visualizará el estado del pago según el color que corresponda:  
+
+   |image68|  
+   
+      Se mostrará una pestaña con los **Pagos** realizados actualmente, la cuál es la que estaremos visualizando,
+      continuamente se encuentra la pestaña de **Archivo de pagos eliminados** y **Archivo de pagos devueltos**:
 
    |image20|
 
@@ -315,7 +318,9 @@ lo solicite al administrador.
    6.\ **Estado:** Cómo podemos apreciar en la imagen, hay una marca color **Rojo**
    la cuál significa que el pago se ha **Conciliado** por lo que la información 
    de ese pago ya no puede ser modificada. Cuando la marca está en color **Negro** quiere decir que aún **No está conciliado** dicho pago, por lo tanto habrá datos que si pueden ser modificados dando clic sobre el dato requerido:  
-
+   
+   |image68|  
+   
    |image40|  
 
    1.\ **Plan:** Si el icono está en color naranja, quiere decir que aún no se ha asignado un
@@ -604,7 +609,7 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image37| image:: /images/prueba-documentos.png
 .. |image38| image:: /images/lista-nombres-documentos.png
 .. |image39| image:: /images/informacion-adicional-estatal.png
-.. |image40| image:: /images/editables-pagos.png
+.. |image40| image:: /images/editables-pagos1.png
 .. |image41| image:: /images/plan-monto.png
 .. |image42| image:: /images/comprobante-fecha.png
 .. |image43| image:: /images/eliminar-pago.png
@@ -631,4 +636,5 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image65| image:: /images/comprobante-pago.png
 .. |image66| image:: /images/concepto-pago.png
 .. |image67| image:: /images/nota.png
+.. |image68| image:: /images/estadosdelpago.png
 
