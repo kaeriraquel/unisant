@@ -8,7 +8,17 @@ Cómo primer punto, se va a encontrar la interfaz principal, la cual es
 el **panel de control**, esta se visualizara automaticamente al iniciar
 sesion en la plataforma.
 
-|image0|
+|image0|  
+
+**AYUDA**  
+
+Al ingresar a la plataforma nos mostrará una ventana informativa para utilizar el chat de ayuda que se encuentra del lado inferior derecho de la pantalla:  
+
+|image70|  
+
+Si se selecciona la opción de ayuda, nos mostrará un chat donde el usuario podrá interactuar con soporte técnico para dudas, aclaraciones o problemas con la plataforma, para iniciar chat se deberá seleccionar la opción de **"Nueva conversación"**.  
+
+|image71| 
 
 Tenemos del lado izquiero el menú principal, el cuál se conforma por la
 sección **Panel de control**, **Alumnos** y **Documentación oficial**.
@@ -642,4 +652,5 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image67| image:: /images/nota.png
 .. |image68| image:: /images/estadosdelpago.png
 .. |image69| image:: /images/planautomatico.png
-
+.. |image70| image:: /images/ayuda.png
+.. |image71| image:: /images/chat.png
