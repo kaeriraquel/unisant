@@ -658,4 +658,4 @@ los cambios. El botón verde de **Lista de alumnos** nos dirigirá a
 .. |image69| image:: /images/planautomatico.png
 .. |image70| image:: /images/ayuda.png
 .. |image71| image:: /images/chat.png
-.. |image72| image:: /images/menuestatico.png
+.. |image72| image:: /images/menuestatico1.png
